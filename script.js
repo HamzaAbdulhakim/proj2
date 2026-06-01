@@ -4,3 +4,4 @@ const sidebar = document.getElementById('sidebar');
 menuBtn.addEventListener('click', () => {
     sidebar.classList.toggle('active');
 });
+console.log('Script loaded successfully');
